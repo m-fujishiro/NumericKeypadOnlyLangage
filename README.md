@@ -1,0 +1,2 @@
+# NumericKeypadOnlyLangage
+テンキーだけでプログラミングが出来る自作言語。
